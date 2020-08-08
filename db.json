@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "id": 2,
+      "titulo": "Viagem",
+      "cor": "red"
+    },
+    {
+      "id": 1,
+      "titulo": "Inglês",
+      "cor": "#ff6a00"
+    },
+    {
+      "id": 3,
+      "titulo": "Fitness",
+      "cor": "orange"
+    },
+    {
+      "id": 4,
+      "titulo": "Yoga e Meditação",
+      "cor": "#6BD1FF"
+    },
+    {
+      "id": 5,
+      "titulo": "Nutrição",
+      "cor": "#00C86F"
+    },
+    {
+      "id": 6,
+      "titulo": "Observação do Céu",
+      "cor": "#9cd33b"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 2,
+      "titulo": "Por onde JESUS ANDOU em NAZARÉ? | Israel",
+      "description": "Canal do Youtube - Louco por Viagens",
+      "url": "https://www.youtube.com/watch?v=c4Ks3wP7uDU&list=PLmL42OUpXPgrllz85mUxS3PNi-Hu261GX&index=3"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "#65 Inglês Fácil e Grátis",
+      "description": "Aprenda Inglês fácil e grátis com a prof. Elizabeth Wagner",
+      "url": "https://www.youtube.com/watch?v=3L_zOgydP8s"
+    },
+    {
+      "id": 3,
+      "categoriaId": 2,
+      "titulo": "Como as PESSOAS VIVIAM na época de JESUS | Israel",
+      "description": "Canal do Youtube - Louco por Viagens",
+      "url": "https://www.youtube.com/watch?v=I6n0GjBTgVc"
+    },
+    {
+      "id": 4,
+      "categoriaId": 2,
+      "titulo": "Mar Morto | No fundo do mundo",
+      "url": "https://www.youtube.com/watch?v=higWL0r3d5g"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "#1 Inglês Fácil e Grátis",
+      "url": "https://www.youtube.com/watch?v=uRFox34nsWs&t=3s"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "#2 Inglês Fácil e Grátis",
+      "url": "https://www.youtube.com/watch?v=uZLeplJ14B8&t=382s"
+    },
+    {
+      "id": 7,
+      "categoriaId": 3,
+      "titulo": "15 MIN DANCE PARTY WORKOUT - Full Body/No Equipment",
+      "url": "https://www.youtube.com/watch?v=1vRto-2MMZo"
+    },
+    {
+      "id": 8,
+      "categoriaId": 3,
+      "titulo": "15 MIN 90's DANCE PARTY WORKOUT - Full Body/No Equipment",
+      "url": "https://www.youtube.com/watch?v=TM9IXoejwC4"
+    },
+    {
+      "id": 9,
+      "categoriaId": 3,
+      "titulo": "10 min ROLL OUT OF BED WORKOUT (No jumping, No equipment)",
+      "url": "https://www.youtube.com/watch?v=-TAvkrgi65I"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "FAZENDO HISTORIA NO EGITO | Travel and Share | Romulo e Mirella",
+      "url": "https://www.youtube.com/watch?v=fgneUnzCOCQ&list=PL-iw_1h-PrukZ3k9FT7f3s2pITMZuZpV8"
+    },
+    {
+      "id": 11,
+      "categoriaId": 6,
+      "titulo": "22 a 29/04 - Bela chuva de meteoros, ocultação de aglomerado estelar com a Lua e Lua próxima Vênus",
+      "url": "https://www.youtube.com/watch?v=5LGKmMnIZ7E"
+    },
+    {
+      "id": 12,
+      "categoriaId": 6,
+      "titulo": "01 à 08/04/20 - Super Lua e muitos outros fenômenos para você observar a olho nu",
+      "url": "https://www.youtube.com/watch?v=TBC-CzpbPio"
+    },
+    {
+      "id": 13,
+      "categoriaId": 6,
+      "titulo": "25 a 31/03/20 - Observe a olho nu a Lua próxima de Vênus, além de Marte próximo de Saturno",
+      "url": "https://www.youtube.com/watch?v=3W_kSD9dnjE"
+    },
+    {
+      "id": 14,
+      "categoriaId": 6,
+      "titulo": "ASTEROIDE DO TAMANHO DE UM CARRO PASSA RASPANDO NA TERRA",
+      "url": "https://www.youtube.com/watch?v=xE4FGXvPl1Q"
+    },
+    {
+      "id": 15,
+      "categoriaId": 6,
+      "titulo": "TUDO SOBRE A CHUVA DE METEOROS DELTA AQUÁRIDAS AUSTRAIS 2020",
+      "url": "https://www.youtube.com/watch?v=fRpdqdDknOI"
+    },
+    {
+      "id": 16,
+      "categoriaId": 6,
+      "titulo": "UNIVERSO PARALELO: VEJA O QUE REALMENTE FOI DESCOBERTO",
+      "url": "https://www.youtube.com/watch?v=_xOMJT1bp2A"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "Conexão - Dia 1 - Aterrar | Pri Leite",
+      "url": "https://www.youtube.com/watch?v=hFFQFuDXmOs"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Conexão - Dia 2 - Eu tenho tempo | Pri Leite",
+      "url": "https://www.youtube.com/watch?v=-qDP6Snl0gs&list=PLnXTMjA8X5leNxlh9303MO4BSmtgKLqKM&index=2"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Conexão - Dia 3 - Guerreiros | Pri Leite",
+      "url": "https://www.youtube.com/watch?v=lB6RIa2Uk7o&list=PLnXTMjA8X5leNxlh9303MO4BSmtgKLqKM&index=3"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Conexão - Dia 4 - Força | Pri Leite",
+      "url": "https://www.youtube.com/watch?v=wD9_yHs9FAI&list=PLnXTMjA8X5leNxlh9303MO4BSmtgKLqKM&index=4"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Conexão - Dia 5 - Alongamento | Pri Leite",
+      "url": "https://www.youtube.com/watch?v=9op_X5x--no&list=PLnXTMjA8X5leNxlh9303MO4BSmtgKLqKM&index=5"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "Conexão - Dia 6 - Chá e Silêncio | Pri Leite",
+      "url": "https://www.youtube.com/watch?v=TMGa1lXMaUQ&list=PLnXTMjA8X5leNxlh9303MO4BSmtgKLqKM&index=6"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "ÔMEGA 3: como suplementar",
+      "url": "https://www.youtube.com/watch?v=WTLwY_CYcP4"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "REFLUXO GASTROESOFÁGICO - tratamento natural",
+      "url": "https://www.youtube.com/watch?v=bZihH9i4p_U"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "Mande a gripe embora assim que ela chegar",
+      "url": "https://www.youtube.com/watch?v=lKJFg_R6RW8"
+    }
+  ]
+}
